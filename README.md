@@ -1,2 +1,2 @@
-# To-Do_List
-A HTML, CSS &amp; JavaScript based List
+# Todo-List
+This is a Simple Todo-List I made with HTML, CSS and JavaScript.
